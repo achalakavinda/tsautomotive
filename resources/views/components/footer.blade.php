@@ -11,7 +11,7 @@
             </div>
             <div class="">
               <h3 class="cs_fs_24 cs_semibold cs_white_color cs_mb_2">Call us 24/7</h3>
-              <p class="mb-0 cs_white_color"><a href="mailto:+(163)-5565-06979">+(163)-5565-06979</a></p>
+              <p class="mb-0 cs_white_color"><a href="mailto:+61-(452)-497-997">+61 (452) 497 997</a></p>
             </div>
           </li>
           <li>
@@ -43,14 +43,14 @@
           <div class="cs_footer_col">
             <div class="cs_footer_widget">
               <div class="cs_text_widget">
-                <img src="assets/img/footer_logo_2.svg" alt="Logo" class="wow zoomIn">
+                {{-- <img src="assets/img/footer_logo_2.svg" alt="Logo" class="wow zoomIn"> --}}
                 <p>Phosfluorescently transform out-of-the-box paradigms whereas accurate supply chains. Continually</p>
               </div>
               <div class="cs_social_btns cs_style_1">
-                <a href="#" class="cs_social_btn cs_center"><i class="fa-brands fa-linkedin-in"></i></a>
-                <a href="#" class="cs_social_btn cs_center"><i class="fa-brands fa-twitter"></i></a>
-                <a href="#" class="cs_social_btn cs_center"><i class="fa-brands fa-youtube"></i></a>
-                <a href="#" class="cs_social_btn cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+                <a target="_blank" href="https://tsautomotive.au/" class="cs_social_btn cs_center"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a target="_blank" href="https://tsautomotive.au/" class="cs_social_btn cs_center"><i class="fa-brands fa-twitter"></i></a>
+                <a target="_blank" href="https://tsautomotive.au/" class="cs_social_btn cs_center"><i class="fa-brands fa-youtube"></i></a>
+                <a target="_blank" href="https://tsautomotive.au/" class="cs_social_btn cs_center"><i class="fa-brands fa-facebook-f"></i></a>
               </div>
             </div>
           </div>
@@ -63,11 +63,11 @@
                 <span class="cs_white_bg"></span>
               </div>
               <ul class="cs_footer_menu">
-                <li><a href="service-details.html">Adult In Car Lessons</a></li>
-                <li><a href="service-details.html">Defensive Driving</a></li>
-                <li><a href="service-details.html">Defensive Driving</a></li>
-                <li><a href="service-details.html">Initial driving lesson</a></li>
-                <li><a href="service-details.html">Woman Education</a></li>
+                <li><a href="#">Tire Rotation & Balance</a></li>
+                <li><a href="#">Complete Diagnostics</a></li>
+                <li><a href="#">Exhaust System Repair</a></li>
+                <li><a href="#">Express Oil Change</a></li>
+                <li><a href="#">Cooling System Care</a></li>
               </ul>
             </div>
           </div>
@@ -82,60 +82,20 @@
               <ul class="cs_footer_contact_list cs_mp_0">
                 <li>
                   <i class="fa-solid fa-location-dot cs_center"></i>
-                  Musaffah - M-6 - Abu Dhabi United Arab Emirates
+                  UNIT 4/15 Denninup Way, Malaga WA 6090
                 </li>
                 <li>
                   <i class="fa-solid fa-phone cs_center"></i>
-                  <a href="tel:+(163)-5565-06979">+(163)-5565-06979</a> <br>
-                  <a href="tel:+(163)-5565-07989">+(163)-5565-07989</a>
+                  <a href="tel:+(163)-5565-06979">+(163)-5565-06979</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-envelope cs_center"></i>
-                  <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                  <a href="mailto:tsautomotive8@gmail.com">tsautomotive8@gmail.com</a>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="cs_footer_col">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">Recent Posts</h2>
-              <div class="cs_footer_widget_seperator">
-                <span class="cs_accent_bg"></span>
-                <span class="cs_white_bg"></span>
-                <span class="cs_white_bg"></span>
-              </div>
-              <ul class="cs_recent_post_widget">
-                <li>
-                  <div class="cs_recent_post">
-                    <a href="blog-details.html" class="cs_recent_post_thumb">
-                      <img src="assets/img/recent_post_1.jpg" alt="Recent Post Image">
-                    </a>
-                    <div class="cs_recent_post_right">
-                      <h3 class="cs_white_color cs_fs_16 cs_medium cs_mb_5">
-                        <a href="blog-details.html">Your Car's Health, Our Priority</a>
-                      </h3>
-                      <p class="cs_recent_posted_by cs_fs_14">
-                        <i class="fa-solid fa-calendar-alt"></i>12 May, 2024</p>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div class="cs_recent_post">
-                    <a href="blog-details.html" class="cs_recent_post_thumb">
-                      <img src="assets/img/recent_post_2.jpg" alt="Recent Post Image">
-                    </a>
-                    <div class="cs_recent_post_right">
-                      <h3 class="cs_white_color cs_fs_16 cs_medium cs_mb_5">
-                        <a href="blog-details.html">The Tune-Up Your Car Deserves</a>
-                      </h3>
-                      <p class="cs_recent_posted_by cs_fs_14">
-                        <i class="fa-solid fa-calendar-alt"></i>10 May, 2024</p>
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
@@ -143,7 +103,7 @@
       <div class="container">
         <div class="cs_footer_bottom_in">
           <div class="cs_footer_copyright">
-            Copyright © 2024 <a href="#">Cripar</a>. All Rights Reserved.
+            Copyright © 2024 <a target="_blank" href="https://webcoredigitalsolutions.com.au/">Webcore Digital Solutions</a>. All Rights Reserved.
           </div>
           <div>
             <img src="assets/img/payment_card.svg" alt="">

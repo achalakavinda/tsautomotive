@@ -6,11 +6,11 @@
             <ul class="cs_header_contact_list cs_mp_0">
               <li>
                 <i class="fa-solid fa-phone-volume"></i>
-                <a href="tel:+111(564)56825">+61 (452) 497 997</a>
+                <a href="tel:+61452497997">+61 (452) 497 997</a>
               </li>
               <li>
                 <i class="fa-solid fa-envelope"></i>
-                <a href="mailto:cripar@gmail.com">tsautomotive8@gmail.com</a>
+                <a href="mailto:tsautomotive8@gmail.com">tsautomotive8@gmail.com</a>
               </li>
               <li>
                 <i class="fa-solid fa-location-dot"></i>
@@ -21,16 +21,16 @@
           <div class="cs_top_header_right">
             <div class="cs_header_social_links_wrap">
               <div class="cs_header_social_links">
-                <a href="#" class="cs_social_btn cs_center">
+                <a href="https://tsautomotive.au/" class="cs_social_btn cs_center">
                   <i class="fa-brands fa-linkedin-in"></i>
                 </a>
-                <a href="#" class="cs_social_btn cs_center">
+                <a href="https://tsautomotive.au/" class="cs_social_btn cs_center">
                   <i class="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#" class="cs_social_btn cs_center">
+                <a href="https://tsautomotive.au/" class="cs_social_btn cs_center">
                   <i class="fa-brands fa-youtube"></i>
                 </a>
-                <a href="#" class="cs_social_btn cs_center">
+                <a href="https://tsautomotive.au/" class="cs_social_btn cs_center">
                   <i class="fa-brands fa-facebook-f"></i>
                 </a>
               </div>
@@ -98,7 +98,7 @@
                 </form>
               </div>
             </div>
-            <a href="contact.html" class="cs_btn cs_style_1">
+            <a href="/contact-us" class="cs_btn cs_style_1">
               <span>Get a Quote</span>
               <i class="fa-solid fa-arrow-right"></i>
             </a>
