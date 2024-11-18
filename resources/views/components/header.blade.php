@@ -6,15 +6,15 @@
             <ul class="cs_header_contact_list cs_mp_0">
               <li>
                 <i class="fa-solid fa-phone-volume"></i>
-                <a href="tel:+111(564)56825">+111 (564) 568 25</a>
+                <a href="tel:+111(564)56825">+61 (452) 497 997</a>
               </li>
               <li>
                 <i class="fa-solid fa-envelope"></i>
-                <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                <a href="mailto:cripar@gmail.com">tsautomotive8@gmail.com</a>
               </li>
               <li>
                 <i class="fa-solid fa-location-dot"></i>
-                <span>Abu Dhabi - United Arab Emirates</span>
+                <span>TS Automotive - Malaga WA, Australia</span>
               </li>
             </ul>
           </div>
@@ -46,10 +46,10 @@
         <div class="cs_main_header_in">
           <div class="cs_main_header_left">
             <div class="cs_logo_wrap">
-              <a class="cs_site_branding" href="index.html">
+              {{-- <a class="cs_site_branding" href="index.html">
                 <img src="assets/img/logo.svg" alt="Logo" >
-              </a>
-              <div class="cs_logo_bg_shape cs_accent_color">
+              </a> --}}
+              {{-- <div class="cs_logo_bg_shape cs_accent_color">
                 <svg width="316" height="141" viewBox="0 0 316 141" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clip-path="url(#clip0_1_24778)">
                     <path opacity="0.15" d="M158 0L316.483 84.75V254.25L158 339L-0.482651 254.25V84.75L158 0Z"
@@ -68,7 +68,7 @@
                     </clipPath>
                   </defs>
                 </svg>
-              </div>
+              </div> --}}
             </div>
           </div>
           <div class="cs_main_header_center">
