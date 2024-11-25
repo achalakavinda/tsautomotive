@@ -44,7 +44,7 @@
             <div class="cs_footer_widget">
               <div class="cs_text_widget">
                 {{-- <img src="assets/img/footer_logo_2.svg" alt="Logo" class="wow zoomIn"> --}}
-                <p>Phosfluorescently transform out-of-the-box paradigms whereas accurate supply chains. Continually</p>
+                <p>Your Car’s Health is Our Mission</p>
               </div>
               <div class="cs_social_btns cs_style_1">
                 <a target="_blank" href="https://tsautomotive.au/" class="cs_social_btn cs_center"><i class="fa-brands fa-linkedin-in"></i></a>

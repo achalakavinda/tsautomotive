@@ -76,8 +76,8 @@
               <div class="cs_nav_list_wrap">
                 <ul class="cs_nav_list">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/services">Services</a></li>
-                    <li><a href="/about">About</a></li>
+                    {{-- <li><a href="/">Services</a></li> --}}
+                    <li><a href="/">FAQ</a></li>
                   <li><a href="contact-us">Contact</a></li>
                 </ul>
               </div>
