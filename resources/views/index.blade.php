@@ -185,15 +185,18 @@
             {{-- <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Where Your Car Gets Pride <br> the Best Care</h2> --}}
         </div>
       </div>
+
+
       <div class="container-fluid p-0">
         <div class="cs_card_wrapper cs_style_1">
+
           <div class="cs_card cs_style_4 cs_hover_active active">
             <div class="cs_card_index_wrap cs_heading_bg cs_white_color cs_fs_24 cs_semibold">
               <div class="cs_card_index">1. Tire Rotation & Balance</div>
             </div>
             <div class="cs_card_content_wrapper cs_white_bg">
               <div class="cs_card_content">
-                <a href="/services" class="cs_card_thumbnail">
+                <a href="#" class="cs_card_thumbnail">
                   <img src="assets/img/tyre_roatation.jpg" alt="Service Image">
                 </a>
                 <div class="cs_card_info cs_bg_filed" data-src="assets/img/card_bg_1.svg">
@@ -201,10 +204,9 @@
                     <img src="assets/img/icons/wheel.svg" alt="Wheel Icon">
                   </div>
                   <h3 class="cs_fs_24 cs_semibold cs_mb_14">
-                    <a href="/services">1. Tire Rotation & Balance</a>
+                    <a href="#">1. Tire Rotation & Balance</a>
                   </h3>
                   <p class="cs_mb_25">Regular tire rotation and balance are essential for maintaining optimal tire performance and extending their lifespan. This service ensures even wear, enhances fuel efficiency, and provides a smoother driving experience.</p>
-                  {{-- <p class="cs_mb_38"> Regular servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions We provide a detailed estimate before any work begins  we offer a warranty on all our repair services to ensure your satisfaction and peace of  varies depending on the complexity</p> --}}
                 </div>
               </div>
             </div>
@@ -216,7 +218,7 @@
             </div>
             <div class="cs_card_content_wrapper cs_white_bg">
               <div class="cs_card_content">
-                <a href="service-details.html" class="cs_card_thumbnail">
+                <a href="#" class="cs_card_thumbnail">
                   <img src="assets/img/diagnostic.jpg" alt="Service Image">
                 </a>
                 <div class="cs_card_info cs_bg_filed" data-src="assets/img/card_bg_1.svg">
@@ -224,79 +226,77 @@
                     <img src="assets/img/icons/wheel.svg" alt="Wheel Icon">
                   </div>
                   <h3 class="cs_fs_24 cs_semibold cs_mb_14">
-                    <a href="service-details.html">2. Battery Replacement</a>
+                    <a href="#">2. Battery Replacement</a>
                   </h3>
                   <p class="cs_mb_25">If you experience a slow engine crank, dim lights, or require frequent jump starts, your vehicle's battery may need replacement. Our experts can quickly diagnose and replace your battery to keep your vehicle running reliably.</p>
-                  {{-- <p class="cs_mb_38"> Regular servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions We provide a detailed estimate before any work begins  we offer a warranty on all our repair services to ensure your satisfaction and peace of  varies depending on the complexity</p> --}}
-                  
                 </div>
               </div>
             </div>
           </div>
+
           <div class="cs_card cs_style_4 cs_hover_active">
             <div class="cs_card_index_wrap cs_heading_bg cs_white_color cs_fs_24 cs_semibold">
               <div class="cs_card_index">3. Brake Inspection & Repair</div>
             </div>
             <div class="cs_card_content_wrapper cs_white_bg">
               <div class="cs_card_content">
-                <a href="service-details.html" class="cs_card_thumbnail">
-                  <img src="assets/img/service_img_4.jpg" alt="Service Image">
+                <a href="#" class="cs_card_thumbnail">
+                  <img src="assets/img/break_inspection_repair.jpg" alt="Service Image">
                 </a>
                 <div class="cs_card_info cs_bg_filed" data-src="assets/img/card_bg_1.svg">
                   <div class="cs_card_icon cs_mb_20">
                     <img src="assets/img/icons/wheel.svg" alt="Wheel Icon">
                   </div>
                   <h3 class="cs_fs_24 cs_semibold cs_mb_14">
-                    <a href="service-details.html">3. Brake Inspection & Repair</a>
+                    <a href="#">3. Brake Inspection & Repair</a>
                   </h3>
                   <p class="cs_mb_25">Squealing sounds, longer stopping distances, or a soft brake pedal are common indicators that your brakes need attention. Our comprehensive brake services ensure your safety and restore optimal braking performance.</p>
-                  {{-- <p class="cs_mb_38"> Regular servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions We provide a detailed estimate before any work begins  we offer a warranty on all our repair services to ensure your satisfaction and peace of  varies depending on the complexity</p> --}}
-
                 </div>
               </div>
             </div>
           </div>
+
           <div class="cs_card cs_style_4 cs_hover_active">
             <div class="cs_card_index_wrap cs_heading_bg cs_white_color cs_fs_24 cs_semibold">
               <div class="cs_card_index">4. Regular Servicing</div>
             </div>
             <div class="cs_card_content_wrapper cs_white_bg">
               <div class="cs_card_content">
-                <a href="service-details.html" class="cs_card_thumbnail">
-                  <img src="assets/img/service_img_4.jpg" alt="Service Image">
+                <a href="#" class="cs_card_thumbnail">
+                  <img src="assets/img/diagnostic.jpg" alt="Service Image">
                 </a>
                 <div class="cs_card_info cs_bg_filed" data-src="assets/img/card_bg_1.svg">
                   <div class="cs_card_icon cs_mb_20">
                     <img src="assets/img/icons/wheel.svg" alt="Wheel Icon">
                   </div>
                   <h3 class="cs_fs_24 cs_semibold cs_mb_14">
-                    <a href="service-details.html">4. Regular Servicing</a>
+                    <a href="#">4. Regular Servicing</a>
                   </h3>
                   <p class="cs_mb_25">Routine vehicle servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions. We provide a thorough inspection and maintenance plan tailored to your needs to keep your car in top shape.</p>
-                  {{-- <p class="cs_mb_38"> Regular servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions We provide a detailed estimate before any work begins  we offer a warranty on all our repair services to ensure your satisfaction and peace of  varies depending on the complexity</p> --}}
                 </div>
               </div>
             </div>
           </div>
+
           <div class="cs_card cs_style_4 cs_hover_active">
             <div class="cs_card_index_wrap cs_heading_bg cs_white_color cs_fs_24 cs_semibold">
               <div class="cs_card_index">5. Transparent Estimates & Warranties</div>
             </div>
             <div class="cs_card_content_wrapper cs_white_bg">
               <div class="cs_card_content">
-                <a href="service-details.html" class="cs_card_thumbnail">
-                  <img src="assets/img/service_img_4.jpg" alt="Service Image">
+                <a href="#" class="cs_card_thumbnail">
+                  <img src="assets/img/home/warranties.jpg" alt="Service Image">
                 </a>
                 <div class="cs_card_info cs_bg_filed" data-src="assets/img/card_bg_1.svg">
                   <div class="cs_card_icon cs_mb_20">
                     <img src="assets/img/icons/wheel.svg" alt="Wheel Icon">
                   </div>
                   <h3 class="cs_fs_24 cs_semibold cs_mb_14">
-                    <a href="service-details.html">5. Transparent Estimates & Warranties</a>
+                    <a href="#">5. Transparent Estimates & Warranties</a>
                   </h3>
                   <p class="cs_mb_25">We provide a detailed estimate before starting any work, so you know exactly what to expect. All our repair services come with a warranty to ensure your satisfaction and peace of mind.
                   </p>
-                  {{-- <p class="cs_mb_38"> Regular servicing is recommended every 5,000 to 7,500 miles, depending on your vehicle and driving conditions We provide a detailed estimate before any work begins  we offer a warranty on all our repair services to ensure your satisfaction and peace of  varies depending on the complexity</p> --}}
+
                 </div>
               </div>
             </div>
@@ -377,7 +377,7 @@
           </div>
           <div class="col-lg-6">
             <div class="cs_half_screen_right wow fadeInRight">
-              <div class="cs_half_screen_thumbnail cs_bg_filed" data-src="assets/img/faq_img_1.jpg"></div>
+              <div class="cs_half_screen_thumbnail cs_bg_filed" data-src="assets/img/home/faq.jpg"></div>
             </div>
           </div>
         </div>
@@ -497,7 +497,7 @@
     <!-- End Testimonial Section -->
 
     <!-- Start Newsletter Section -->
-    <div class="cs_newsletter cs_style_1">
+    {{-- <div class="cs_newsletter cs_style_1">
       <div class="container">
         <div class="cs_newsletter_content_wrapper cs_accent_bg position-relative wow fadeInDown" data-wow-delay="0.6s">
           <div class="cs_newsletter_content">
@@ -533,7 +533,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> --}}
     <!-- End Newsletter Section -->
 
 

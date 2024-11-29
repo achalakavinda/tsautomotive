@@ -46,29 +46,6 @@
         <div class="cs_main_header_in">
           <div class="cs_main_header_left">
             <div class="cs_logo_wrap">
-              {{-- <a class="cs_site_branding" href="index.html">
-                <img src="assets/img/logo.svg" alt="Logo" >
-              </a> --}}
-              {{-- <div class="cs_logo_bg_shape cs_accent_color">
-                <svg width="316" height="141" viewBox="0 0 316 141" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <g clip-path="url(#clip0_1_24778)">
-                    <path opacity="0.15" d="M158 0L316.483 84.75V254.25L158 339L-0.482651 254.25V84.75L158 0Z"
-                      fill="currentColor" />
-                  </g>
-                  <g clip-path="url(#clip1_1_24778)">
-                    <path d="M157.5 13L304.291 97.75V267.25L157.5 352L10.7087 267.25V97.75L157.5 13Z"
-                      fill="currentColor" />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_1_24778">
-                      <rect width="316" height="141" fill="white" />
-                    </clipPath>
-                    <clipPath id="clip1_1_24778">
-                      <rect width="295" height="128" fill="white" transform="translate(10 13)" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </div> --}}
             </div>
           </div>
           <div class="cs_main_header_center">
@@ -76,9 +53,8 @@
               <div class="cs_nav_list_wrap">
                 <ul class="cs_nav_list">
                     <li><a href="/">Home</a></li>
-                    {{-- <li><a href="/">Services</a></li> --}}
-                    <li><a href="/">FAQ</a></li>
-                  <li><a href="contact-us">Contact</a></li>
+                    <li><a href="/services">Services</a></li>
+                  <li><a href="/contact-us">Contact</a></li>
                 </ul>
               </div>
             </div>
@@ -89,14 +65,6 @@
               <button class="cs_circle_btn cs_center cs_search_tobble_btn" type="button">
                 <i class="fa-solid fa-magnifying-glass"></i>
               </button>
-              <div class="cs_header_search_wrap">
-                <form action="#" class="cs_header_search">
-                  <input type="text" class="cs_header_search_input" placeholder="Search For Anything">
-                  <button class="cs_header_search_btn cs_center">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                  </button>
-                </form>
-              </div>
             </div>
             <a href="/contact-us" class="cs_btn cs_style_1">
               <span>Get a Quote</span>
