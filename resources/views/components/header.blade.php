@@ -6,7 +6,7 @@
             <ul class="cs_header_contact_list cs_mp_0">
               <li>
                 <i class="fa-solid fa-phone-volume"></i>
-                <a href="tel:+61452497997">+61 (452) 497 997</a>
+                <a href="tel:+61862489630">(08) 6248 9630</a>
               </li>
               <li>
                 <i class="fa-solid fa-envelope"></i>

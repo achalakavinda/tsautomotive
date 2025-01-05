@@ -47,7 +47,7 @@
                 </li>
                 <li>
                   <i class="fa-solid fa-phone cs_center"></i>
-                  <a href="tel:+(163)-5565-06979">+(163)-5565-06979</a>
+                  <a href="tel:+61862489630">(08) 6248 9630</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-envelope cs_center"></i>
