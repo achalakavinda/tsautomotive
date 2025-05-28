@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\LeadController;
 
 Route::get('/', function () {
     return view('index');
@@ -17,3 +18,5 @@ Route::get('/about', function () {
 Route::get('/contact-us', function () {
     return view('contactUs');
 });
+
+Route::post('/lead/contact', [LeadController::class, 'storeContact'])->name('lead.contact');

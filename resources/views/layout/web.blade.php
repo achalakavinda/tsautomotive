@@ -10,6 +10,9 @@
     <link rel="icon" href="assets/img/favicon.png">
     <!-- Site Title -->
     <title>Welcome | TS Automotive - Malaga</title>
+    <!-- SweetAlert2 CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -53,6 +56,7 @@
     <!-- End Scroll Top Button -->
 
 
+    <x-sweet-alert />
     <!-- Script -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <script src="assets/js/wow.min.js"></script>
@@ -61,5 +65,6 @@
     <script src="assets/js/odometer.js"></script>
     <script src="assets/js/main.js"></script>
     @yield('js')
+
   </body>
 </html>
