@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-  <head>
+
+<head>
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,6 +11,24 @@
     <link rel="icon" href="assets/img/favicon.png">
     <!-- Site Title -->
     <title>Welcome | TS Automotive - Malaga</title>
+
+
+    @if (app()->environment('production'))
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5PB7HMYZF"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'G-T5PB7HMYZF');
+        </script>
+    @endif
+
+
     <!-- SweetAlert2 CDN -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
@@ -20,38 +39,41 @@
     <link rel="stylesheet" href="assets/css/odometer.css">
     <link rel="stylesheet" href="assets/css/style.css">
     @yield('css')
-  </head>
-  <body>
+</head>
+
+<body>
     <!-- Start Preloader -->
     <div class="cs_center cs_heading_bg" id="preloader">
-      <div class="preloader-inner">
-        <div class="spinner">
-          <img src="assets/img/preloader_logo.svg" alt="img">
-          <img src="assets/img/icons/wheel.svg" alt="img" class="wheel">
-        </div>
-        {{-- <div class="loading-text">
+        <div class="preloader-inner">
+            <div class="spinner">
+                <img src="assets/img/preloader_logo.svg" alt="img">
+                <img src="assets/img/icons/wheel.svg" alt="img" class="wheel">
+            </div>
+            {{-- <div class="loading-text">
           <img src="assets/img/logo.svg" alt="img">
         </div> --}}
-      </div>
+        </div>
     </div>
     <!-- End Preloader -->
-    
+
     <!-- Start Header Section -->
-        @include('components.header')
+    @include('components.header')
     <!-- End Header Section -->
 
 
-        @yield('content')
+    @yield('content')
 
 
     <!-- Start Footer -->
-        @include('components.footer')
+    @include('components.footer')
     <!-- End Footer -->
-    
+
 
     <!-- Start Scroll Top Button -->
     <div class="cs_scroll_top_btn cs_accent_bg cs_white_color cs_center cs_radius_50">
-      <svg xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 32 32"><path fill="currentColor" d="M16 4L6 14l1.41 1.41L15 7.83V28h2V7.83l7.59 7.58L26 14z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 32 32">
+            <path fill="currentColor" d="M16 4L6 14l1.41 1.41L15 7.83V28h2V7.83l7.59 7.58L26 14z" />
+        </svg>
     </div>
     <!-- End Scroll Top Button -->
 
@@ -66,5 +88,6 @@
     <script src="assets/js/main.js"></script>
     @yield('js')
 
-  </body>
+</body>
+
 </html>
