@@ -13,17 +13,15 @@
     <title>Welcome | TS Automotive - Malaga</title>
 
 
-    @production
-        {{-- production only --}}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5PB7HMYZF"></script>
-        <script>
+    @env('production')
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5PB7HMYZF"></script>
+    <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-T5PB7HMYZF');
-        </script>
-    @endproduction
-
+    </script>
+    @endenv
 
 
     <!-- SweetAlert2 CDN -->
